@@ -217,7 +217,7 @@ canvas {
 	width: 255px;
 }
 
-.upload-btn::before {
+/*.upload-btn::before {
 	content: 'Upload your track';
 	display: inline-block;  
 	left: 2vmax;
@@ -225,7 +225,7 @@ canvas {
 	white-space: nowrap;
 	-webkit-user-select: none;
 	cursor: pointer;
-}
+} */
 
 .upload-btn:hover::before {
 	color: #fff;
