@@ -77,9 +77,9 @@ a:focus {
 }
 
 .codrops-header__title {
-	font-size: 4em;
+	font-size: 4vw;
 	margin: 0;
-	padding: 0 1em;
+	padding: 2vw;
 	color: #fff;
 }
 
