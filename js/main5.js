@@ -16,7 +16,7 @@ function uploaded(file) {
 }
 
 
-function uploadedAudioPlay(audioFile) {
+/*function uploadedAudioPlay(audioFile) {
 
 	uploadLoading = false;
 
@@ -48,7 +48,7 @@ function setup() {
 	fft = new p5.FFT();
 	audio.loop();
 
-}
+}*/
 
 
 
