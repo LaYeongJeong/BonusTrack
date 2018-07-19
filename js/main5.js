@@ -129,13 +129,13 @@ function draw() {
 }
 
 
-function toggleAudio() {
+/*function toggleAudio() {
 	if (audio.isPlaying()) {
 		audio.pause();
 	} else {
 		audio.play();
 	}
-}
+} */
 
 
 function windowResized() {
