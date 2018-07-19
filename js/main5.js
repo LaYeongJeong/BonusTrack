@@ -34,13 +34,13 @@ function setup() {
 
 	createCanvas(windowWidth, windowHeight);
 
-	toggleBtn = createButton("Play / Pause");
+	/*toggleBtn = createButton("Play / Pause");*/
 
-	uploadBtn = createFileInput(uploaded);
+	/*uploadBtn = createFileInput(uploaded);
 
 	uploadBtn.addClass("upload-btn");
 	
-	toggleBtn.addClass("toggle-btn");
+	toggleBtn.addClass("toggle-btn"); */
 
 	toggleBtn.mousePressed(toggleAudio);
 
