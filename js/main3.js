@@ -6,7 +6,7 @@ var trembleColor = "#728d0d";
 var uploadLoading = false;
 
 function preload() {
-	audio = loadSound("audio/DEMO_3.mp3");
+	audio = loadSound("audio/Leave a Light On.mp3");
 }
 
 
